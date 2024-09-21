@@ -15,6 +15,7 @@ public class ShowTwoNumbersHoalt {
         JOptionPane.showMessageDialog(null, strNotificationHoalt,"Hoa-Show Two ,Numbers ", 
         		JOptionPane.INFORMATION_MESSAGE);
        System.exit(0);
+       //Le Thi Hoa -9959
 	}
 
 }
