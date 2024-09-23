@@ -1,7 +1,8 @@
 package Lab01;
-// Bai 2.2.6 - Le Thi Hoa - 9959
+
+//Bai 2.2.6 - Le Thi Hoa - 9959
 import java.util.Scanner;
-public class PhuongTrinhBacNhatHoalt {
+public class PhuongTrinhBacNhatLtHoa {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
