@@ -1,5 +1,7 @@
 package Lab01;
+
 import javax.swing.JOptionPane;
+
 public class ShowTwoNumbersHoalt {
 
 	public static void main(String[] args) {
