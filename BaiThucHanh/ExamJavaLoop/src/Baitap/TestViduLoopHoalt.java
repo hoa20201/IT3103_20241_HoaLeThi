@@ -86,7 +86,15 @@ public class TestViduLoopHoalt {
 		}
 		
 		//======================================
-			
+		System.out.println("Printf the multiplication table for the number 2");
+		int number;
+		for (number=2; number<11; number++) {
+			//System.out.println("\n=============");
+		for(int m= 1; m<=10; m++)
+			System.out.println(number + " x " + m + " = " + (number*m));
+			System.out.println("\n=============");
+		}
+		
 		}
 		
 
