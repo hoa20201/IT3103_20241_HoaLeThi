@@ -6,10 +6,14 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\DELL\Documents\GitHub\excercise-oop"/>
+			<item value="C:\Users\DELL\OneDrive - Hanoi University of Science and Technology\2024-2025\Ky2024.1\IT3103\Baocaothuchanh\732874-IT3130\lab02\lab02\lab02\AimsProject"/>
+			<item value="C:\Users\DELL\OneDrive - Hanoi University of Science and Technology\2024-2025\Ky2024.1\IT3103\Baocaothuchanh\732874-IT3130\lab02"/>
+			<item value="C:\Users\DELL\OneDrive - Hanoi University of Science and Technology\2024-2025\Ky2024.1\IT3103\HocJava\SourceCode_MonLapTrinhJavaTrong4Tuan"/>
 			<item value="C:\Users\DELL\Documents\GitHub\IT3103_20241_HoaLeThi\BaiThucHanh"/>
 		</list>
 		<section name="SmartImportWizard.dialogBounds">
-			<item key="DIALOG_X_ORIGIN" value="479"/>
+			<item key="DIALOG_X_ORIGIN" value="11"/>
 			<item key="DIALOG_Y_ORIGIN" value="11"/>
 			<item key="DIALOG_WIDTH" value="984"/>
 			<item key="DIALOG_HEIGHT" value="837"/>
